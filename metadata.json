@@ -1,0 +1,6 @@
+{
+  "name": "LogLensAI - Autonomous Log Intelligence & Telemetry Dashboard",
+  "description": "Enterprise cloud observability platform with real-time log exploration, error clustering, live tail streaming, and autonomous AI root cause analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
